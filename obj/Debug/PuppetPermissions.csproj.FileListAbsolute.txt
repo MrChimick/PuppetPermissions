@@ -1,0 +1,6 @@
+D:\Steam\steamapps\common\RimWorld\Mods\PuppetPermissions\Assemblies\PuppetPermissions.dll
+D:\Steam\steamapps\common\RimWorld\Mods\PuppetPermissions\Assemblies\PuppetPermissions.pdb
+D:\Steam\steamapps\common\RimWorld\Mods\PuppetPermissions\obj\Debug\PuppetPermissions.csprojAssemblyReference.cache
+D:\Steam\steamapps\common\RimWorld\Mods\PuppetPermissions\obj\Debug\PuppetPermissions.csproj.CoreCompileInputs.cache
+D:\Steam\steamapps\common\RimWorld\Mods\PuppetPermissions\obj\Debug\PuppetPermissions.dll
+D:\Steam\steamapps\common\RimWorld\Mods\PuppetPermissions\obj\Debug\PuppetPermissions.pdb
